@@ -3,16 +3,21 @@
     line-height: 1.5em;
 }
 p.redred{
-    color:brown;
-    font-size: 40px;
-    text-align: center;
+    color:rgb(59, 98, 87);
+    font-size: 32px;
+    text-align: left;
     text-indent: 2em;
+    background-color:rgb(120, 185, 163);
 }
 
 p{
-    color:cornflowerblue;
+    color:rgb(61, 107, 193);
 }
 
 .blueblue{
-    color: blue;
+    color: rgb(174, 174, 255);
+}
+
+body{
+    font-family: 'Noto Serif TC' sans-serif;
 }
