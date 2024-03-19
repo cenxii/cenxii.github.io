@@ -21,3 +21,12 @@ p{
 body{
     font-family: 'Noto Serif TC' sans-serif;
 }
+
+.expedu_icon{
+    color: red;
+}
+
+.expedu_icon:hover{
+    background-color: brown;
+    color: white;
+}
