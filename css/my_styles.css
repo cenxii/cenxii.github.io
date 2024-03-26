@@ -30,5 +30,6 @@ body{
 
 .bg-primary{
     background-color: rgb(69, 97, 94) !important;
-    background-image: url(../assets/img/3.JPG);
+    background-image: url(../assets/img/4.JPG);
+    background-position: center;
 }
