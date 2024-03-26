@@ -19,22 +19,10 @@ p{
 }
 
 body{
-<<<<<<< HEAD
     font-family: 'Noto Serif TC', sans-serif;
-=======
-    font-family: 'Noto Serif TC' sans-serif;
-}
-
-.expedu_icon{
-    color: red;
->>>>>>> dc77785d5057124b372dda8da734701579f545ba
 }
 
 .expedu_icon:hover{
     background-color: brown;
-<<<<<<< HEAD
     color:white;
-=======
-    color: white;
->>>>>>> dc77785d5057124b372dda8da734701579f545ba
 }
