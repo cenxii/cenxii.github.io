@@ -2,13 +2,15 @@
     letter-spacing: 0.8px;
     line-height: 1.5em;
 }
-p.redred{
+div.redred{
     border: 5px solid rgb(23, 67, 73);
     color:rgb(59, 98, 87);
     font-size: 32px;
     text-align: center;
     text-indent: 2em;
     background-color:rgb(120, 185, 163);
+    padding: 20px;
+    border-radius: 50px;
 }
 
 p{
