@@ -36,5 +36,25 @@ body{
 
 table.table01{
     width:80%;
-    background-color:rgb(49, 94, 45)
+    color: rgb(33, 21, 21);
+    text-align: center;
+}
+table.table01 th{
+    text-align: center;
+    color: rgba(96, 53, 53, 0.38);
+    background-color: gray;
+    border: 5px solid rgb(120, 185, 163); 
+}
+
+table.table01 td{
+    text-align: center;
+    border: 5px solid rgb(120, 185, 163); 
+}
+
+table.table01 tr:nth-child(even){
+    background-color: rgb(23, 67, 73)；
+}
+
+table.table01 tr:nth-child(odd){
+    background-color: brown;
 }
