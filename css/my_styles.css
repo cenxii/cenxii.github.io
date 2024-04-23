@@ -67,3 +67,14 @@ table.table01 tr:nth-child(odd){
 .table-80{
     width: 80%;
 }
+
+.overflow{
+    background-color: rgb(24, 175, 163);
+    color: white ;
+    padding: 10px 20px;
+    border-radius: 15px;
+    width: 50%;
+    margin: 20px auto;
+    height: 80px;
+    overflow: scroll;
+}
