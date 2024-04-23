@@ -32,10 +32,8 @@ body{
 }
 
 .bg-primary{
-    background-color: rgb(69, 97, 94) ;
-    background-image: url(../assets/img/4.JPG) !important; 
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: rgb(69, 97, 94) !important ;
+    background-image: url(../assets/img/4.jpg) ; 
     background-position: center;
 }
 
