@@ -33,7 +33,7 @@ body{
 
 .bg-primary{
     background-color: rgb(69, 97, 94) ;
-    background-image: url(../assets/img/4.JPG);
+    background-image: url(../assets/img/4.JPG) !important; 
     background-position: center;
 }
 
